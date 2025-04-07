@@ -40,3 +40,7 @@ NoteStack is a full-stack MERN (MongoDB, Express, React, Node.js) application th
 ```bash
 git clone https://github.com/AbhishekKumar122/NoteStack.git
 cd NoteStack
+
+### 🎥 Live Demo
+
+Watch the app in action here: [Click to Watch Demo on Loom](https://www.loom.com/share/b08b709d29cd40889b81c851cbc903a7)
