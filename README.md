@@ -46,5 +46,3 @@ Watch the app in action here:
 ```bash
 git clone https://github.com/AbhishekKumar122/NoteStack.git
 cd NoteStack
-
----
